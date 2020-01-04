@@ -2,6 +2,32 @@
 Learning journal from 102
 Headings
 
+Growth Mindset:  your natural abilities will get you so far, but it takes a mindset of learning and achieving to get you further
+
+Reminders:
+1.  Upload a profile picture
+2.  Complete Read 01:
+3.  Complete Career Class 01
+
+
+Markdown Info:
+
+Lists
+
+You can make an unordered list by preceding one or more lines of text with - or *.
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+Shows list as bulleted
+
+To order your list, precede each line with a number.
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
 # The largest heading
