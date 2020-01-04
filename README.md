@@ -4,9 +4,9 @@
 Growth Mindset:  your natural abilities will get you so far, but it takes a mindset of learning and achieving to get you further
 
 Reminders:
-[ ]  Upload a profile picture
-[ ]  Complete Read 01:
-[ ]  Complete Career Class 01
+-[ ]  Upload a profile picture
+-[ ]  Complete Read 01:
+-[ ]  Complete Career Class 01
 
 My name is Yvette and I love to learn.  I also love movies, reading, and my dogs.  I have two daughters and I love them too.  They are gamers.  My *oldest daughter* :heart: will be getting her 10th tattoo soon and my **youngest daughter** :heart: will be getting her first soon.
 
