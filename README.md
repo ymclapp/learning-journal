@@ -1,10 +1,13 @@
 # learning-journal
 ***Learning journal from 102***
 
+##Learning from Monday 01/06/2020 class:##
+
+##Assignments, etc for Saturday 01/04/2020 class:##
 Growth Mindset:  your natural abilities will get you so far, but it takes a mindset of learning and achieving to get you further
 
 Reminders:
-- [ ]  Upload a profile picture
+- [X]  Upload a profile picture
 - [ ]  Complete Read 01:
 - [ ]  Complete Career Class 01
 
@@ -62,6 +65,8 @@ Italic 	* * or _ _ 	command/control + i 	*This text is italicized* 	This text is
 Strikethrough 	~~ ~~ 		~~This was mistaken text~~ 	This was mistaken text
 Bold and nested italic 	** ** and _ _ 		**This text is _extremely_ important** 	This text is extremely important
 All bold and italic 	*** *** 		***All this text is important*** 	All this text is important
+
+A LOT of emojis!
 
 People
 
