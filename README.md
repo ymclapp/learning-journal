@@ -1,7 +1,34 @@
 # learning-journal
 ***Learning journal from 102***
 
+## Learning from Tuesday 01/07/2020 class:
+1.  Create a new repository
+2.  Clone or download
+3.  Open a terminal - get to desktop
+4.  git clone right click to paste url - hit enter
+5.  ls to see that the file is there
+6.  cd and the name of the file for example learning-journal
+7.  code . will open VS and the readme file
+8.  Make changes that you want to to the readme file
+9.  git status should show the file has been changed and is red font
+10. git add and the file name will save the file
+11. git status should show the file in green font to indicate that it has been saved
+12. git commit -m put a comment in quotes and that will be the message on the file
+13. git push origin master will push the changes out to git hub
+
+Git resides in three main states:
+1.  Committed - data stored
+2.  Modified - changed but not committed
+3.  Staged - flagged for next snapshot
+
 ## Learning from Monday 01/06/2020 class:
+
+Git Hub pages reside in the cloud and allow others to view and comment
+- Allows collaboration
+- Allows for revision tracking
+- Allows someone to go back to a specific version and comment, view, etc.
+- Allows messages to be assigned to commits
+- Can keep revisions separated and implement individually
 
 ## Assignments, etc for Saturday 01/04/2020 class:
 Growth Mindset:  your natural abilities will get you so far, but it takes a mindset of learning and achieving to get you further
