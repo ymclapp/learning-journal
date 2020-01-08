@@ -6,7 +6,7 @@ My name is Yvette and I love to learn.  I also love movies, reading, and my dogs
 [My github page](https://github.com/ymclapp)
 
 Table of Contents
-- [Learning from 01/04/2020](01042020Learning.md)
-- [Learning from 01/06/2020](01062020Learning.md)
-- [Learning from 01/07/2020](01072020Learning.md)
-- [Markdown Information](MarkdownInfo.md)
+- [Learning from 01/04/2020](/01042020Learning.md)
+- [Learning from 01/06/2020](/01062020Learning.md)
+- [Learning from 01/07/2020](/01072020Learning.md)
+- [Markdown Information](/MarkdownInfo.md)
