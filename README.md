@@ -9,4 +9,6 @@ Table of Contents
 - [Learning from 01/04/2020](/01042020Learning.md)
 - [Learning from 01/06/2020](/01062020Learning.md)
 - [Learning from 01/07/2020](/01072020Learning.md)
+- [Learning from 01/08/2020](/01082020Learning.md)
+- [Learning from 01/09/2020](/01092020Learning.md)
 - [Markdown Information](/MarkdownInfo.md)
