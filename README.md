@@ -12,3 +12,5 @@ Table of Contents
 - [Learning from 01/08/2020](/01082020Learning.md)
 - [Learning from 01/09/2020](/01092020Learning.md)
 - [Markdown Information](/MarkdownInfo.md)
+- [Basic Code](/basicLanguage.md)
+- [Difference in Text Editors](textEditors.md)
