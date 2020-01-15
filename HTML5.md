@@ -1,17 +1,19 @@
 ## Using HTML5
 
-The old html used <div> to divide up sections on a page.  Now you can name the sections within the <div> to divide them up.
+Note: -div- etc. is substituting a - for <> so that info shows in browser
 
-- '<nav>' - navigation element
-- '<header>' - header element
-- '<footer>' - footer element
-- '<article>'
-- '<aside>'
-- '<section>'
-- '<hgroup>' - heading group
-- '<figure>'
-- '<fig caption>'
-- '<div>'
+The old html used -div- to divide up sections on a page.  Now you can name the sections within the -div- to divide them up.
+
+- -nav-:  navigation element
+- -header-:  header element
+- -footer-:  footer element
+- -article-
+- -aside-
+- -section-
+- -hgroup-:  heading group
+- -figure-
+- -fig caption-
+- -div-
 
 Extra Markup
 
@@ -22,11 +24,19 @@ The different versions of HTML had different versions of !DOCTYPE that helped id
 - Strict XHTML 1.0 = !DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/  xhtml1-strict.dtd"
 - XML Declaration = ?xml version="1.0" ?
 
-- '<!-- -->' = to add a comment that won't show up on page
-- '<p id="pullquote">' = It is used to uniquely identify that element from other elements on the page. 
+- !-- -- = to add a comment that won't show up on page
+- -p id="pullquote"- = It is used to uniquely identify that element from other elements on the page. 
     - Its value should start with a letter or an underscore (not a number or any other character). 
     - It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
-- '<p class="important">' = Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page
+- -p class="important"- = Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page
 
-- Block elements = Examples of block elements are <h1>, <p>, <ul>, and <li>
-- Inline elements = Examples of inline elements are <a>, <b>, <em>, and <img>
+- Block elements = Examples of block elements are -h1-, -p-, -ul-, and -li-
+- Inline elements = Examples of inline elements are -a-, -b-, -em-, and -img-
+
+- -div- allows grouping on page
+- -span- allows grouping inline
+- -iframe- allows you to put a "window" to another page into your page Ex. Mapquest map of building location
+    - Need to identify attributes for iframe such as height, width, scrolling, frame, etc.
+- -meta- lives in the -head- element and contains page info
+    - Needs info such as keywords for SEO and description, pragma, expires, etc.
+- Escape characters are used to include special  X characters in your pages such as <, >, and ©
