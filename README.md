@@ -14,5 +14,5 @@ Table of Contents
 - [Markdown Information](/MarkdownInfo.md)
 - [Basic Code](/basicLanguage.md)
 - [Difference in Text Editors](TextEditors.md)
-- [Structure Web Pages with HTML[(/StructureWebPagesWithHTML.md)]
+- [Structure Web Pages with HTML](/StructureWebPagesWithHTML.md)
 - [HTML 5](/HTML5.md)
