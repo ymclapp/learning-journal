@@ -20,10 +20,10 @@ Foreground color can be specified in three different ways:
     - For example: DarkCyan
 
 Background color is specified for each block that css recognizes, such as body, header, footer, etc. and sets the color for the background of that block
-    - Example:  body {background-color: rgb(200,200,200);} 
+- Example:  body {background-color: rgb(200,200,200);} 
 
 Opacity - CSS3 introduces the opacity property which allows you to specify the opacity of an element and any of its child elements. The value is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity).  It is rgba.
-    - Example:  p.one { background-color: rgb(0,0,0); opacity: 0.5;} p.two { background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.5);} 
+- Example:  p.one { background-color: rgb(0,0,0); opacity: 0.5;} p.two { background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.5);} 
 
 HSL - CSS3 also allows you to specify colors as HSL values,  X with an optional opacity value. It is known as HSLA.
-    - Example: p { background-color: #ffffff; background-color: hsla(0,100%,100%,0.5);}
+- Example: p { background-color: #ffffff; background-color: hsla(0,100%,100%,0.5);}
