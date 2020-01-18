@@ -18,4 +18,4 @@ Table of Contents
 - [HTML 5](/HTML5.md)
 - [How Computers Work](/howComputersWork.md)
 - [CSS Learning](/CSS.md)
-- [Jave - CSS - HTML Working Together](/JavaCSSHtmlFitTogether.md)
+- [Java - CSS - HTML Working Together](/JavaCSSHtmlFitTogether.md)
