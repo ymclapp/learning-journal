@@ -44,3 +44,57 @@ Syntax - How you put those words together to create instructions computers can f
 - Modulus = % - divides two values and returns the remainder
 
 Order of execution is similar to normal math - multiplication and division first then left to right on addition and subtraction
+
+## Functions
+Functions let you  group a series of statements together go perform a specific task
+
+- Not all functions run when you load the page.  If you want one to load later, you need to name it.
+    - Calling is when you ask it to perform it's task
+    - A code bloxk is where the steps are packaged for the task
+    - Parameters are when pieces of information are needed to be passed to the function to run
+    - Return value is an output you are expecting from the task
+Ex. HTML - <!DOCTYPE html> <html> <head> 
+Before the closing </body> tag, you can see the link to the JavaScript file. The JavaScript file starts with a variable used to hold a new message, and is followed by a function called updateMessage(). 
+<ti tle>Basic Function</title> <link rel ="stylesheet" href="css/c03.css" /> </head> <body> <hl>TravelWorthy< /hl> <div id="message">Welcome to our site!< /div> <script src="js/basic-function.js"></script> < / body> </html> 
+
+Ex. JS - var msg = 'Sign up to receive our newsletter for 10% off!'; function updateMessage() { var el = document.getElementByld('message'}; el .textContent = msg; } updateMessage(}; 
+l
+
+### Components of a Function
+- Ex. function sayHello () {
+    document.write('Hello')
+}
+
+- function is the function keyword
+- sayHello is the function name
+- Everything within the curly braces is the code block
+
+### Calling a Function
+- To run the function that is above in the Components of a Function, you need to call the function
+    1.  The function can store the instructions for a specific task
+    2.  When you need the script to perform that task, you call the function
+    3.  The function executes the code in that code block
+    4.  When it has finished, the code continues to run from the point where it was initially called
+
+    First to run will be the function line.  Second will be the function call of sayHello().  Third, the document.write result
+
+### Declaring functions that need information
+    - Ex. function getArea (width, height) {
+        return.width * height
+    }
+
+    - (width, height) - parameters
+    - width * height - the parameters are used like variables within the function
+
+### Calling functions that need information
+- getArea(3, 5) - arguments as values
+- wallWidth = 3, wallHeight = 5, getArea(wallWidth, wallHeight) - arguments as variables
+
+### Getting a single value out of a function
+
+- Ex. function calculateArea(width, height) {
+    var area = width * height
+    return area
+}
+var wallOne = calculateArea (3, 5)
+var wallTwo = calculateArea (8, 5)
