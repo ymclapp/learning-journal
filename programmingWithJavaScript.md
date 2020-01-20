@@ -26,3 +26,21 @@ Syntax - How you put those words together to create instructions computers can f
 ### Expressions
 1.  Expressions that just assign a value to a variable = var color = 'beige';
 2.  Expressions that use two or more values to return a single value = var area = 3 * 2;
+
+### Operators
+- Assignment operators - assign a value to a variable - ex. color = 'beige';
+- Arithmetic operators - perform basic math - ex. area = 3 * 2;
+- String operators - combine two strings - ex. greeting = 'Hi ' + 'Molly';
+- Comparison operators - compare two values and return true or false - ex. buy = 3 > 5;
+- Logical operators - combine expressions and return true or false - ex. buy = (5 > 3) && (2 < 4);
+
+### Arithmetic Operators
+- Addition = +
+- Subtraction = -
+- Division = /
+- Multiplication = *
+- Increment = ++
+- Decrement = --
+- Modulus = % - divides two values and returns the remainder
+
+Order of execution is similar to normal math - multiplication and division first then left to right on addition and subtraction

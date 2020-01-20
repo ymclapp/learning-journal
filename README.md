@@ -19,3 +19,4 @@ Table of Contents
 - [How Computers Work](/howComputersWork.md)
 - [CSS Learning](/CSS.md)
 - [Java - CSS - HTML Working Together](/JavaCSSHtmlFitTogether.md)
+- [Programming with Javascript](/programmingWithJavaScript.md)
